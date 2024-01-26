@@ -1,0 +1,5 @@
+app:
+  source: 'github'
+  user: 'git-user'
+  password: 'password'
+
