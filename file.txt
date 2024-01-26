@@ -1,0 +1,11 @@
+file.txt created
+
+1 - remote
+2 - local
+3 - local rebase
+4 - remote rebase
+5 - remote rebase v2
+6 - local rebase 2
+
+
+cherrypick

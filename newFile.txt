@@ -1,0 +1,4 @@
+Some crucial information about git...
+
+git has several types of merging - merge, rebase and cherry-pick
+git is ditributed system of version control
